@@ -25,11 +25,12 @@ test_requirements = [
 setup(
     name='stopwords',
     version='0.1.0',
-    description="Stopwords removal ",
+    description="Stopwords filter for 40 languages",
     long_description=readme + '\n\n' + history,
     author="Len Dierickx",
     author_email='len@astuanax.com',
     url='https://github.com/astuanax/stopwords',
+    download_url = 'https://github.com/astuanax/stopwords/tarball/0.1', # I'll explain this in a second
     packages=[
         'stopwords',
     ],
@@ -39,7 +40,7 @@ setup(
     install_requires=requirements,
     license="ISCL",
     zip_safe=False,
-    keywords='stopwords',
+    keywords=['stopwords','language processing','nlp','filter'],
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -48,10 +49,7 @@ setup(
         "Programming Language :: Python :: 2",
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
-        'Programming Language :: Python :: 3.4',
     ],
-    test_suite='tests',
-    tests_require=test_requirements
+    #test_suite='tests',
+    #tests_require=test_requirements
 )
