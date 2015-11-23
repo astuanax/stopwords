@@ -37,6 +37,12 @@ setup(
     package_dir={'stopwords':
                  'stopwords'},
     include_package_data=True,
+    package_data={
+        'stop_words': [
+            'languages/*/*.txt',
+            'languages/languages.json',
+        ]
+    },
     install_requires=requirements,
     license="ISCL",
     zip_safe=False,
