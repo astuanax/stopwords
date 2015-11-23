@@ -5,13 +5,9 @@ stopwords
 .. image:: https://img.shields.io/pypi/v/stopwords.svg
         :target: https://pypi.python.org/pypi/stopwords
 
-.. image:: https://img.shields.io/travis/astuanax/stopwords.svg
-        :target: https://travis-ci.org/astuanax/stopwords
-
 .. image:: https://readthedocs.org/projects/stopwords/badge/?version=latest
         :target: https://readthedocs.org/projects/stopwords/?badge=latest
         :alt: Documentation Status
-
 
 Stopwords removal 
 
@@ -26,10 +22,8 @@ Features
 Credits
 ---------
 
-Tools used in rendering this package:
+Based on:
+https://github.com/Alir3z4/stop-words
 
-*  Cookiecutter_
-*  `cookiecutter-pypackage`_
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+Tested some functions from 
+https://gist.github.com/glenbot/4684356
