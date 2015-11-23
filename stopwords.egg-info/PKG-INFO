@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: stopwords
-Version: 0.1.0
+Version: 0.1.1
 Summary: Stopwords filter for 40 languages
 Home-page: https://github.com/astuanax/stopwords
 Author: Len Dierickx
@@ -46,6 +46,10 @@ Description: ===============================
         ---------------------
         
         * First release on PyPI.
+        
+        0.1.1 (2015-01-11)
+        ---------------------
+        
         * Added languages files
         
 Keywords: stopwords,language processing,nlp,filter
