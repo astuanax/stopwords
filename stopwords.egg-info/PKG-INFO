@@ -46,6 +46,7 @@ Description: ===============================
         ---------------------
         
         * First release on PyPI.
+        * Added languages files
         
 Keywords: stopwords,language processing,nlp,filter
 Platform: UNKNOWN

@@ -38,7 +38,7 @@ setup(
                  'stopwords'},
     include_package_data=True,
     package_data={
-        'stop_words': [
+        'stopwords': [
             'languages/*/*.txt',
             'languages/languages.json',
         ]
