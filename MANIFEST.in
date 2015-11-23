@@ -4,5 +4,5 @@ include HISTORY.rst
 include LICENSE
 include README.rst
 
+recursive-include stopwords/languages *
 recursive-include docs *.rst conf.py Makefile make.bat
-recursive-include languages *
