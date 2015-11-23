@@ -19,6 +19,6 @@ Getting the stopwords::
 To filter the stopwords from text::
 
 	txt = "The quick brown fox jumps over the lazy dog"
-	clean(txt, "en")
+	clean(txt.lower().split(), "en")
 
 Return a list without the stopwords.
