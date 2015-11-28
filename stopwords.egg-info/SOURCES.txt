@@ -17,7 +17,6 @@ docs/make.bat
 docs/readme.rst
 docs/usage.rst
 stopwords/__init__.py
-stopwords/stopwords.py
 stopwords.egg-info/PKG-INFO
 stopwords.egg-info/SOURCES.txt
 stopwords.egg-info/dependency_links.txt

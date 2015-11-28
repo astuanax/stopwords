@@ -24,8 +24,8 @@ test_requirements = [
 
 setup(
     name='stopwords',
-    version='0.1.2',
-    description="Stopwords filter for 40 languages",
+    version='0.1.3',
+    description="Stopwords filter for 42 languages",
     long_description=readme + '\n\n' + history,
     author="Len Dierickx",
     author_email='len@astuanax.com',
@@ -48,7 +48,7 @@ setup(
     zip_safe=False,
     keywords=['stopwords','language processing','nlp','filter'],
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: ISC License (ISCL)',
         'Natural Language :: English',

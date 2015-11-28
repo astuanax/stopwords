@@ -14,10 +14,11 @@ Stopwords removal
 * Free software: ISC license
 * Documentation: https://stopwords.readthedocs.org.
 
+This package was created for the content/website analyzer at http://www.qpi.io
+
 Features
 --------
 
-* TODO
 
 Credits
 ---------

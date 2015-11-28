@@ -54,13 +54,15 @@ def get_stopwords(language, cache=True):
     return stopwords
 
 
-def clean(txt, stopwords_language):
-    stopwords_set = set(get_stopwords(stopwords_language))
-    for sw in stopwords_set.intersection(txt):
-        while sw in txt:
-            txt.remove(sw)
-
-    return txt
+def clean(txt_list, stopwords_language, safe=True):
+    if safe:
+        stopwords_set = set(safe_get_stopwords(stopwords_language))
+    else:
+        stopwords_set = set(get_stopwords(stopwords_language))
+    for sw in stopwords_set.intersection(txt_list):
+        while sw in txt_list:
+            txt_list.remove(sw)
+    return txt_list
 
 
 def safe_get_stopwords(stopwords_language):
@@ -73,6 +75,9 @@ def safe_get_stopwords(stopwords_language):
     except LanguageNotAvailable:
         return []
 
+
+def languages():
+    return AVAILABLE_LANGUAGES;
 
 def print_languages():
     for lang in AVAILABLE_LANGUAGES:
