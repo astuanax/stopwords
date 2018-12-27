@@ -81,4 +81,4 @@ def languages():
 
 def print_languages():
     for lang in AVAILABLE_LANGUAGES:
-        print lang
+        print(lang)
