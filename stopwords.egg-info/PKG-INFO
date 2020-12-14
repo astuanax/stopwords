@@ -1,7 +1,7 @@
 Metadata-Version: 1.1
 Name: stopwords
-Version: 0.1.2
-Summary: Stopwords filter for 40 languages
+Version: 1.0.0
+Summary: Stopwords filter for 42 languages
 Home-page: https://github.com/astuanax/stopwords
 Author: Len Dierickx
 Author-email: len@astuanax.com
@@ -23,10 +23,11 @@ Description: ===============================
         * Free software: ISC license
         * Documentation: https://stopwords.readthedocs.org.
         
+        This package was created for the content/website analyzer at http://www.qpi.io
+        
         Features
         --------
         
-        * TODO
         
         Credits
         ---------
@@ -42,19 +43,26 @@ Description: ===============================
         History
         -------
         
-        0.1.2 (2015-01-11)
+        0.1.2 (2015-11-28)
+        ---------------------
+        
+        * Added Latin and Slovenian languages.
+        
+        
+        
+        0.1.2 (2015-11-01)
         ---------------------
         
         * Bump.
         
         
-        0.1.1 (2015-01-11)
+        0.1.1 (2015-11-01)
         ---------------------
         
         * Added languages files
         
         
-        0.1.0 (2015-01-11)
+        0.1.0 (2015-11-01)
         ---------------------
         
         * First release on PyPI.
@@ -63,7 +71,7 @@ Description: ===============================
         
 Keywords: stopwords,language processing,nlp,filter
 Platform: UNKNOWN
-Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: ISC License (ISCL)
 Classifier: Natural Language :: English

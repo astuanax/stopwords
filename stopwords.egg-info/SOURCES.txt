@@ -47,6 +47,7 @@ stopwords/languages/italian/default.txt
 stopwords/languages/japanese/default.txt
 stopwords/languages/korean/default.txt
 stopwords/languages/kurdish/default.txt
+stopwords/languages/latin/default.txt
 stopwords/languages/latvian/default.txt
 stopwords/languages/lithuanian/default.txt
 stopwords/languages/marathi/default.txt
@@ -57,6 +58,7 @@ stopwords/languages/portuguese/default.txt
 stopwords/languages/romanian/default.txt
 stopwords/languages/russian/default.txt
 stopwords/languages/slovak/default.txt
+stopwords/languages/slovenian/default.txt
 stopwords/languages/spanish/default.txt
 stopwords/languages/swedish/default.txt
 stopwords/languages/thai/default.txt
