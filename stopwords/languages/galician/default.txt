@@ -57,7 +57,7 @@ era
 eran
 esa
 esas
-ese	eses
+ese eses
 esta
 estar
 estaba
@@ -116,7 +116,7 @@ para
 pero
 pode
 pois
-pola	polas
+pola polas
 polo
 polos
 por

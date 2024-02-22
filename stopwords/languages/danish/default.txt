@@ -30,7 +30,7 @@ flere
 fleste
 for
 fordi
-forrige	fra
+forrige fra
 få
 før
 god
@@ -62,7 +62,7 @@ kommer
 lav
 lidt
 lille
-man	mand
+man mand
 mange
 med
 meget

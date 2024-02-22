@@ -37,7 +37,7 @@ doksan
 dokuz
 dört
 elli
-en	gibi
+en gibi
 hem
 hep
 hepsi
@@ -76,7 +76,7 @@ onlar
 onlardan
 onlari
 onlarýn
-onu	otuz
+onu otuz
 sanki
 sekiz
 seksen
