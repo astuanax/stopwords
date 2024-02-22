@@ -48,7 +48,7 @@ setup(
     zip_safe=False,
     keywords=['stopwords','language processing','nlp','filter'],
     classifiers=[
-        '5 - Production/Stable',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: ISC License (ISCL)',
         'Natural Language :: English',
