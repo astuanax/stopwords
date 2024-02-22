@@ -2,8 +2,7 @@
 
 __author__ = 'Len Dierickx'
 __email__ = 'len@astuanax.com'
-__version__ = '1.0.0'
-
+__version__ = '1.0.1'
 
 import os
 import json
@@ -78,6 +77,7 @@ def safe_get_stopwords(stopwords_language):
 
 def languages():
     return AVAILABLE_LANGUAGES;
+
 
 def print_languages():
     for lang in AVAILABLE_LANGUAGES:

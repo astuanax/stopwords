@@ -3,11 +3,16 @@
 History
 -------
 
+1.0.1 (2024-02-22)
+---------------------
+
+* Replaced tabs with spaces in language stop word files
+
+
 0.1.2 (2015-11-28)
 ---------------------
 
 * Added Latin and Slovenian languages.
-
 
 
 0.1.2 (2015-11-01)

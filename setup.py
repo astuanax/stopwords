@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='stopwords',
-    version='1.0.0',
+    version='1.0.1',
     description="Stopwords filter for 42 languages",
     long_description=readme + '\n\n' + history,
     author="Len Dierickx",
