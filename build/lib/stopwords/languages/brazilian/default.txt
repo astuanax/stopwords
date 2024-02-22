@@ -47,7 +47,7 @@ eles
 em
 entao
 entre
-essa	essas
+essa essas
 esse
 esses
 esta
@@ -96,7 +96,7 @@ quais
 qual
 qualquer
 quando
-quanto	que
+quanto que
 quem
 quer
 se

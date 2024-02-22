@@ -37,7 +37,7 @@ dá
 dár
 dó
 faoi
-faoin	faoina
+faoin faoina
 faoinár
 fara
 fiche
@@ -76,7 +76,7 @@ ocht
 ochtar
 os
 roimh
-sa	seacht
+sa seacht
 seachtar
 seachtó
 seasca

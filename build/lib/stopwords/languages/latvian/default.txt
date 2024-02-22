@@ -57,7 +57,7 @@ kļūsi
 kļūsiet
 kļūsim
 kļūst
-kļūstam	kļūstat
+kļūstam kļūstat
 kļūsti
 kļūstu
 kļūt
@@ -116,7 +116,7 @@ tiec
 tiek
 tiekam
 tiekat
-tieku	tikām
+tieku tikām
 tikāt
 tikšu
 tik

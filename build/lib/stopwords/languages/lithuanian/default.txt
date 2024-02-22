@@ -197,7 +197,7 @@ kadangi
 kai
 kaip
 kaip
-kaipgi	kas
+kaipgi kas
 katra
 katras
 katriedvi
@@ -396,7 +396,7 @@ taigi
 taigi
 taip
 taipogi
-taisiais	tajai
+taisiais tajai
 tajam
 tajame
 tamsta
