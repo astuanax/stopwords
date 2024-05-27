@@ -47,7 +47,8 @@ poden
 vaig
 va
 van
-fer faig
+fer
+faig
 fa
 fem
 feu
@@ -96,7 +97,8 @@ sabeu
 saben
 últim
 llarg
-bastant fas
+bastant
+fas
 molts
 aquells
 aquelles
