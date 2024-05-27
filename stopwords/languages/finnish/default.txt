@@ -247,7 +247,8 @@ joutuvat
 juuri
 kahdeksan
 kahdeksannen
-kahdella kahdelle
+kahdella
+kahdelle
 kahdelta
 kahden
 kahdessa
@@ -496,7 +497,8 @@ omiksi
 omille
 omilta
 omissa
-omista on
+omista
+on
 onkin
 onko
 ovat
