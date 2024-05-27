@@ -177,7 +177,8 @@ inuti
 ja
 jag
 jämfört
-kan kanske
+kan
+kanske
 knappast
 kom
 komma
@@ -356,7 +357,8 @@ utanför
 ute
 vad
 vänster
-vänstra var
+vänstra
+var
 vår
 vara
 våra
