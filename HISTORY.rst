@@ -3,6 +3,11 @@
 History
 -------
 
+1.0.2 (2025-02-22)
+---------------------
+
+* Replaced new lines with spaces in language stop word files, thx to https://github.com/mbanon and https://github.com/kianmeng
+
 1.0.1 (2024-02-22)
 ---------------------
 
@@ -31,5 +36,3 @@ History
 ---------------------
 
 * First release on PyPI.
-
-
