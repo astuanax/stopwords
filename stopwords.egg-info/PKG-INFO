@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: stopwords
 Version: 1.0.2
 Summary: Stopwords filter for 42 languages
@@ -16,11 +16,19 @@ Classifier: Programming Language :: Python :: 2
 Classifier: Programming Language :: Python :: 2.6
 Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.10
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 License-File: LICENSE
 License-File: AUTHORS.rst
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary
 
 ===============================
 stopwords
@@ -33,7 +41,7 @@ stopwords
         :target: https://readthedocs.org/projects/stopwords/?badge=latest
         :alt: Documentation Status
 
-Stopwords removal
+Stopwords removal 
 
 * Free software: ISC license
 * Documentation: https://stopwords.readthedocs.org.
@@ -50,7 +58,7 @@ Credits
 Based on:
 https://github.com/Alir3z4/stop-words
 
-Tested some functions from
+Tested some functions from 
 https://gist.github.com/glenbot/4684356
 
 
@@ -58,6 +66,11 @@ https://gist.github.com/glenbot/4684356
 
 History
 -------
+
+1.0.2 (2025-02-22)
+---------------------
+
+* Replaced new lines with spaces in language stop word files, thx to https://github.com/mbanon and https://github.com/kianmeng
 
 1.0.1 (2024-02-22)
 ---------------------
