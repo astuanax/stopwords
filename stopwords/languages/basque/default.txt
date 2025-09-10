@@ -32,7 +32,8 @@ ere
 eta
 eurak
 ez
-gainera gu
+gainera
+gu
 gutxi
 guzti
 haiei
@@ -66,7 +67,8 @@ horiei
 horiek
 horietan
 horko
-horra horrek
+horra
+horrek
 horrela
 horretan
 horri

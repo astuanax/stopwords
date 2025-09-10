@@ -57,7 +57,8 @@ kļūsi
 kļūsiet
 kļūsim
 kļūst
-kļūstam kļūstat
+kļūstam
+kļūstat
 kļūsti
 kļūstu
 kļūt
